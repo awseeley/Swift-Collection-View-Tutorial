@@ -1,10 +1,6 @@
 //
 //  AppDelegate.swift
 //  CollectionViewTute
-//
-//  Created by Andrew Seeley on 23/12/2014.
-//  Copyright (c) 2014 Seemu. All rights reserved.
-//
 
 import UIKit
 
