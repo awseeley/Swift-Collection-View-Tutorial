@@ -5,7 +5,7 @@ Source code on creating a UITableView in Swift. Using Xcode 6.
 
 Tutorial:
 
-To be uploaded :)
+http://youtu.be/pD3Xwvo_B-0
 
 Check out our Website: http://www.seemuapps.com
 
