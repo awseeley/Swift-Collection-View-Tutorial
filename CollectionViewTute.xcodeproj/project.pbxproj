@@ -168,6 +168,7 @@
 		94D073E91A4985D400CA7824 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0720;
 				LastUpgradeCheck = 0610;
 				ORGANIZATIONNAME = Seemu;
 				TargetAttributes = {
@@ -421,6 +422,7 @@
 				94D074121A4985D400CA7824 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		94D074131A4985D400CA7824 /* Build configuration list for PBXNativeTarget "CollectionViewTuteTests" */ = {
 			isa = XCConfigurationList;
@@ -429,6 +431,7 @@
 				94D074151A4985D400CA7824 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
